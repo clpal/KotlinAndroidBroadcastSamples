@@ -9,7 +9,7 @@ import android.text.TextUtils
 import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-
+// Annyomous class ReceiverActivity
 class ReceiverActivity : AppCompatActivity() {
     private lateinit var revMsg:TextView
     private lateinit var intentFilter:IntentFilter

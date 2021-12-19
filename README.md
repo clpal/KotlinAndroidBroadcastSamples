@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/31485866/146666338-453bdd85-3f19-4293-
 
 
 
-<img src = "screenshots/DyamicBroadcastReciver.jpg" width = "180" /> 
+<img src = "screenshots/WhatsApp.jpg" width = "180" /> 
 
 <video src="screenshots/DyamicBroadcastReciver.jpg" width=180/>
 
